@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Natwar589">
