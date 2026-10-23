@@ -17,7 +17,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Natwar589&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Natwar Rathor's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Natwar589&theme=highcontrast&radius=10" alt="Natwar589's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LAVI9966&theme=highcontrast&radius=10" alt="Natwar589's Activity Graph" />
 </p>
 
 
